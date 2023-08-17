@@ -8,23 +8,20 @@ This project aims to provide a brief understanding of full-stack development, co
 
 ## Table of Contents
 
-- [What is Full Stack?](#what-is-full-stack)
-- [What is Full Stack Web Development?](#what-is-full-stack-web-development)
-- [What is a Full Stack Developer?](#what-is-a-full-stack-developer)
-- [Demo Videos](#demo-videos)
-- [Front-End Development](#what-is-front-end-development)
-- [Back-End Development](#what-is-back-end-development)
-- [Skills Needed](#skills-needed)
-- [Contributions](#contributions)
-- [Contact](#contact)
-- [License](#license)
+- What is Full Stack?
+- What is Full Stack Web Development?
+- What is a Full Stack Developer?
+- Demo Videos
+- Front-End Development
+- Back-End Development
+- Skills Needed
 
 ## Demo Videos
 
 Check out our demo videos showcasing different aspects of full-stack development:
 
-- [Forum App](link-to-forum-app-demo-video)
-- [Photo Gallery](link-to-photo-gallery-demo-video)
+- Forum App
+- Photo Gallery
 
 ## Contributions
 
@@ -36,4 +33,4 @@ If you have any questions or suggestions, feel free to reach out to [Guna Palani
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License
